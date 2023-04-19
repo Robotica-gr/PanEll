@@ -9,7 +9,7 @@ ones.
 
 -TEAM: Is that your only problem? 
 
-- OTENTIAL BUYERS: I guess we replace them because they have completed their life cycle and their performance has  dropped by 80%, it's time for them to get recycled. 
+-POTENTIAL BUYERS: I guess we replace them because they have completed their life cycle and their performance has  dropped by 80%, it's time for them to get recycled. 
 
 -TEAM: You know that performance hasn't dropped in all of them, right? 
 
@@ -23,13 +23,13 @@ ones.
 
 -POTENTIAL BUYERS: Oh, that's very interesting, but can we see it in action, maybe a demo? 
 
--TEAM: Of course! {we do scenarios, describing robot movements} Here you will see the robot operating. In addition to scanning,indentifing and replacing ,it also cleans. 
+-TEAM: Of course! {we do scenarios, describing robot movements} Here you will see the robot operating. In addition to scanning,indentifing and replacing, it also cleans. 
 
 -POTENTIAL BUYERS: Oh, it cleans too? 
 
 -TEAM: Well, why not. Using compressed air and water collected from the rain our system is able to clean the  solar panels contactless therefore causing no harm to it’s surface. 
 
-- OTENTIAL BUYERS: I’m Impressed ! 
+-POTENTIAL BUYERS: I’m Impressed ! 
 
 -TEAM: At first we had something else in mind. We had thought that the bridge would simply pass and look for problematic panels . In other words, it would save you the trouble of searching for the faulty ones, but this idea improved, and eventually we designed it in such a way that it could also replace them. In addition , you may not care about this from a buisness point of view but all the solar panels in the world that are currently installed will be eventually replaced within 10-15 years because solar farms would rather replace all their panels than search for the faulty ones when their energy production drops, which means a huge amount of  waste. So basically, apart from reaching the maximum efficiency of the panels, we also save a  tremendous amount of pollution. 
 
